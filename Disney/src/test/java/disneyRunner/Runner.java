@@ -20,6 +20,7 @@ public class Runner extends DisneyActions{
 		new DisneyHomePages(driver)
 		.selectMovie()
 		.enterUser(user);
+		// demo test
 		
 	}
     
